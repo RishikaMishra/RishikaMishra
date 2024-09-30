@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rishika Mishra</h1>
-<img align="center" alt="coding" src="C:\Users\Rishika\OneDrive\Desktop\banner.png">
 <h3 align="center">B.TECH in CSE(Final year)|Dedicated to Learning & Innovation in Tech | Passionate about Software Engineering & AI Technology 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikamishra&label=Profile%20views&color=0e75b6&style=flat" alt="rishikamishra" /> </p>
