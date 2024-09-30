@@ -1,3 +1,4 @@
+![logo](banner.png)
 <h1 align="center">Hi 👋, I'm Rishika Mishra</h1>
 <h3 align="center">B.TECH in CSE(Final year)|Dedicated to Learning & Innovation in Tech | Passionate about Software Engineering & AI Technology 🚀</h3>
 
