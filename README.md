@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikamishra&label=Profile%20views&color=0e75b6&style=flat" alt="rishikamishra" /> </p>
 
-- 🔭 I’m currently working on **Women safety project**
+- 🔭 I’m currently working on **RescueAstra- Women safety Analytics system**
 
 - 🌱 I’m currently learning **Backend technology & AI Services**
 
