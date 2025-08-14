@@ -1,10 +1,10 @@
 ![logo](banner.png)
 <h1 align="center">Hi 👋, I'm Rishika Mishra</h1>
-<h3 align="center">B.TECH in CSE(Final year)|Dedicated to Learning & Innovation in Tech <br> Passionate about Software Engineering & AI Technology 🚀</h3>
+<h3 align="center">B.TECH in CSE|Dedicated to Learning & Innovation in Tech <br> Passionate about Software Engineering & AI Technology 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikamishra&label=Profile%20views&color=0e75b6&style=flat" alt="rishikamishra" /> </p>
 
-- 🔭 I’m currently working on **RescueAstra- Women safety Analytics system**
+- 🔭 My Recent Project is **RescueAstra- Women safety Analytics system**
 
 - 🌱 I’m currently learning **Backend technology & AI Services**
 
